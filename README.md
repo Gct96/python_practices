@@ -1,2 +1,2 @@
 # python
-codes for python practice
+codes for python 
